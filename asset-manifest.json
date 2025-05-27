@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/New_trendz/static/css/main.56c1f98c.css",
+    "main.js": "/New_trendz/static/js/main.28d029e4.js",
+    "static/js/453.cd8de6ca.chunk.js": "/New_trendz/static/js/453.cd8de6ca.chunk.js",
+    "index.html": "/New_trendz/index.html",
+    "main.56c1f98c.css.map": "/New_trendz/static/css/main.56c1f98c.css.map",
+    "main.28d029e4.js.map": "/New_trendz/static/js/main.28d029e4.js.map",
+    "453.cd8de6ca.chunk.js.map": "/New_trendz/static/js/453.cd8de6ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56c1f98c.css",
+    "static/js/main.28d029e4.js"
+  ]
+}
